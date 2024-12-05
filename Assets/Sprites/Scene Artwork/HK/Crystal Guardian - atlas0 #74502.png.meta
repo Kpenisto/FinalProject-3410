@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: 581765f2ecdb02e49890d3475aabd3a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 215
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fdb077de788904796e6fade3942130
+      internalID: -2122338389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1757
+        width: 313
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b762ed8ab3eb224fa247619c9ff58f3
+      internalID: -310254602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1657
+        width: 191
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8c34a321b85c41a1e8542806098f7
+      internalID: 1648099453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_3
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1638
+        width: 180
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4359fd4f6c1df34fa81347b395c09be
+      internalID: -1778904207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1634
+        width: 175
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68792da56dd6e44395c3b14078d49b0
+      internalID: -136797736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_5
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1634
+        width: 177
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fdbc14b1b8ba842b673bb068d74aba
+      internalID: -1571164324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_6
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1827
+        width: 241
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13ea4e7a91e0e47808e8ae044a5175
+      internalID: 1574017315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 245
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03765fbc7f0131f44beb2ca4e03be77f
+      internalID: 1887776173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1713
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce9410388dfa14f8ed5959c0743e18
+      internalID: -1974324919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_9
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1589
+        width: 194
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ccf168280d0341b0a32dbc17ee981
+      internalID: 528846840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_10
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1669
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10043811aaa8344abc1e0773d93e146
+      internalID: -458023266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1499
+        width: 145
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66060500d18c5914ead0e8f939e82f63
+      internalID: -217509770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 237
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387dd4495eabd57499641485078e830f
+      internalID: -497551977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1466
+        width: 297
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f46256015cddb24890d80e8fd3e49cc
+      internalID: -1043259858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1449
+        width: 294
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29e66bb8c8aca41aa202338591d434
+      internalID: 128230728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_15
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1446
+        width: 285
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e22e39dfe8804f899dc425e5ec7a4
+      internalID: -2057753680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_16
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1322
+        width: 187
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c357913b9d0ec498d290e832b5abcd
+      internalID: -711367316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_17
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1323
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e09fb7676634af4b99c5ddc0f772d5d
+      internalID: -402477012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 221
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b44219f6f92d934494aefb942115564
+      internalID: -1276729053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1194
+        width: 223
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b3570a099c2f247805f6c7dc45247b
+      internalID: 265847534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1153
+        width: 190
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dadd2299571a5458b4500c3aa46b9a
+      internalID: 1515721322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_21
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1138
+        width: 188
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585f76b7ba6d1d47963ac354d0aaad2
+      internalID: -1526714937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_22
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1058
+        width: 190
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7015fbed2ba24d8ac114998fdfab9
+      internalID: 1599663582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_23
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1002
+        width: 191
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff947003d1c584a9d0ed9aa64c4404
+      internalID: 1426624836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_24
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1145
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd5f7b4c8577e41b6ba4adc906acfd
+      internalID: -120194773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 911
+        width: 242
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e32409647e5e240b6875bd803a6922
+      internalID: -313403064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1023
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d2a34b1c7003488fa9b81d483de99
+      internalID: 976631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 855
+        width: 174
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01133c4fe7ac06c4e91fc847cf306f41
+      internalID: -874131628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_28
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 789
+        width: 190
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c77102a3ebe5048aafe6b50622b384
+      internalID: 1201428292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 789
+        width: 200
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbce25e4f7dd7f418e5a382ffff19c3
+      internalID: -778884324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_30
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 949
+        width: 148
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bdda0ba78a3ba4885c5e75a214ec0d
+      internalID: -1062998814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_31
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1015
+        width: 147
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7794948a1ad384bb694570e30ba7a1
+      internalID: 689017029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 254
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb04a947d0c7448b759e64194b62da
+      internalID: -126502961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 633
+        width: 292
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15032c874d86b848a795e534c5fc895
+      internalID: -1339881614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_34
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 747
+        width: 200
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ce816bcb830a4eaf51f310dba10f7
+      internalID: 996311247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_35
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 689
+        width: 188
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38a8eaf573f8a40ae22ad27a0f1ff0
+      internalID: -1348324312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_36
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 833
+        width: 151
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27522598a408254996e275644bc150c
+      internalID: 1212366269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_37
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 729
+        width: 146
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb8776a896ed0a4db9dbb1ab04f786b
+      internalID: 391993698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_38
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 829
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e71c3a9c4fd84c81bf48e853986bb
+      internalID: -34929453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_39
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 594
+        width: 310
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b096c4e63e114d34c96dcf4f9e41f9eb
+      internalID: -808747511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_40
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 478
+        width: 200
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a618e87cdcdd74b80872888e131f83
+      internalID: 789837768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_41
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 438
+        width: 194
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e59f84a799a84e83089f2e7f27d36
+      internalID: 1355516525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_42
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 651
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c16093a86336047b7fc18b4d42fc59
+      internalID: 514953859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_43
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 545
+        width: 138
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397bc988457168742b4236869d5e6564
+      internalID: 1202115496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_44
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 541
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa4225dbc2ad841b4fb09571d87b1f
+      internalID: 1235319478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 232
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d122e774d33de43979789a487b0413
+      internalID: -885447853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 224
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b0f36a37e98446b0e71e2c7efebd1
+      internalID: -71874377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 278
+        width: 204
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfbfb1129247e24cb3d38cf25630256
+      internalID: 1750703396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_48
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 518
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cdebbf5d2b25f44ab9c11223229a46
+      internalID: -461298259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_49
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 390
+        width: 183
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd2f5dd267b4f243a2e1e7f8296dce9
+      internalID: 1568804739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_50
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 180
+        width: 263
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99beccd9fe3c4bc44a204ad0927d4306
+      internalID: 972756583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_51
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 368
+        width: 139
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b4f6df97efad4abbdebb49e2529de
+      internalID: 383364281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_52
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 357
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab5d753fd69084ab1b999a191c9cc3
+      internalID: 827415327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_53
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 209
+        width: 224
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d43e7427c4c894f8e4602c2b1a4568
+      internalID: 1062434667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_54
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 200
+        width: 224
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0d16ab61101e41a034f76702b81b4
+      internalID: 601329385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_55
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 402
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a4945a8b7962b4bbf34df53c95ce4d
+      internalID: 1678765904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 238
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1a00db1bea6840ae6a2780f82bcd7
+      internalID: -907758796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51e5107bdf9a94fad7bdd06a3a1b7f
+      internalID: 321364897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_58
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 195
+        width: 255
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798aca8b66ad200449d30aeb5851cd64
+      internalID: 622950364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_59
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 180
+        width: 143
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2e9c5bb51d624f91ff7ac3251dce0
+      internalID: -1780961307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_60
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 182
+        width: 145
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ce33f30878d445bf4fdc4ab66c6ea
+      internalID: 850158012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 248
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ff5064526d084782047cbe7c5cfee
+      internalID: -1404785356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_62
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 226
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4527f0af35c4d5942bd191778aafe122
+      internalID: -303909267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 302
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e664358480d419344afad12968b88367
+      internalID: 1699888060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_64
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 301
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e690c2ec02214b95f28b195265784
+      internalID: 1154838977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_65
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 269
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61808359be5df364aab1bbac772ae472
+      internalID: 75267176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_66
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 0
+        width: 275
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dee6631ca46074686df4558d3aa926
+      internalID: 527479257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_67
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 172
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486aeb55514e384dbbfc682b3e73674
+      internalID: 908662535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_68
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 0
+        width: 159
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7f1c535a3a444e8c7bda6c1d8bc29
+      internalID: -1963657282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_69
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 149
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7cdce01e853341b1b3ee588dd4fd7
+      internalID: -82743545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1073
+        width: 207
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279d0a05d44bb548b5c0203925a3ad3
+      internalID: 1359071934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Guardian - atlas0 #74502_71
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1252
+        width: 196
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ee3493001a4b4a94360c5aed89d48
+      internalID: 1273861556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crystal Guardian - atlas0 #74502_0: -2122338389
+      Crystal Guardian - atlas0 #74502_1: -310254602
+      Crystal Guardian - atlas0 #74502_10: -458023266
+      Crystal Guardian - atlas0 #74502_11: -217509770
+      Crystal Guardian - atlas0 #74502_12: -497551977
+      Crystal Guardian - atlas0 #74502_13: -1043259858
+      Crystal Guardian - atlas0 #74502_14: 128230728
+      Crystal Guardian - atlas0 #74502_15: -2057753680
+      Crystal Guardian - atlas0 #74502_16: -711367316
+      Crystal Guardian - atlas0 #74502_17: -402477012
+      Crystal Guardian - atlas0 #74502_18: -1276729053
+      Crystal Guardian - atlas0 #74502_19: 265847534
+      Crystal Guardian - atlas0 #74502_2: 1648099453
+      Crystal Guardian - atlas0 #74502_20: 1515721322
+      Crystal Guardian - atlas0 #74502_21: -1526714937
+      Crystal Guardian - atlas0 #74502_22: 1599663582
+      Crystal Guardian - atlas0 #74502_23: 1426624836
+      Crystal Guardian - atlas0 #74502_24: -120194773
+      Crystal Guardian - atlas0 #74502_25: -313403064
+      Crystal Guardian - atlas0 #74502_26: 976631353
+      Crystal Guardian - atlas0 #74502_27: -874131628
+      Crystal Guardian - atlas0 #74502_28: 1201428292
+      Crystal Guardian - atlas0 #74502_29: -778884324
+      Crystal Guardian - atlas0 #74502_3: -1778904207
+      Crystal Guardian - atlas0 #74502_30: -1062998814
+      Crystal Guardian - atlas0 #74502_31: 689017029
+      Crystal Guardian - atlas0 #74502_32: -126502961
+      Crystal Guardian - atlas0 #74502_33: -1339881614
+      Crystal Guardian - atlas0 #74502_34: 996311247
+      Crystal Guardian - atlas0 #74502_35: -1348324312
+      Crystal Guardian - atlas0 #74502_36: 1212366269
+      Crystal Guardian - atlas0 #74502_37: 391993698
+      Crystal Guardian - atlas0 #74502_38: -34929453
+      Crystal Guardian - atlas0 #74502_39: -808747511
+      Crystal Guardian - atlas0 #74502_4: -136797736
+      Crystal Guardian - atlas0 #74502_40: 789837768
+      Crystal Guardian - atlas0 #74502_41: 1355516525
+      Crystal Guardian - atlas0 #74502_42: 514953859
+      Crystal Guardian - atlas0 #74502_43: 1202115496
+      Crystal Guardian - atlas0 #74502_44: 1235319478
+      Crystal Guardian - atlas0 #74502_45: -885447853
+      Crystal Guardian - atlas0 #74502_46: -71874377
+      Crystal Guardian - atlas0 #74502_47: 1750703396
+      Crystal Guardian - atlas0 #74502_48: -461298259
+      Crystal Guardian - atlas0 #74502_49: 1568804739
+      Crystal Guardian - atlas0 #74502_5: -1571164324
+      Crystal Guardian - atlas0 #74502_50: 972756583
+      Crystal Guardian - atlas0 #74502_51: 383364281
+      Crystal Guardian - atlas0 #74502_52: 827415327
+      Crystal Guardian - atlas0 #74502_53: 1062434667
+      Crystal Guardian - atlas0 #74502_54: 601329385
+      Crystal Guardian - atlas0 #74502_55: 1678765904
+      Crystal Guardian - atlas0 #74502_56: -907758796
+      Crystal Guardian - atlas0 #74502_57: 321364897
+      Crystal Guardian - atlas0 #74502_58: 622950364
+      Crystal Guardian - atlas0 #74502_59: -1780961307
+      Crystal Guardian - atlas0 #74502_6: 1574017315
+      Crystal Guardian - atlas0 #74502_60: 850158012
+      Crystal Guardian - atlas0 #74502_61: -1404785356
+      Crystal Guardian - atlas0 #74502_62: -303909267
+      Crystal Guardian - atlas0 #74502_63: 1699888060
+      Crystal Guardian - atlas0 #74502_64: 1154838977
+      Crystal Guardian - atlas0 #74502_65: 75267176
+      Crystal Guardian - atlas0 #74502_66: 527479257
+      Crystal Guardian - atlas0 #74502_67: 908662535
+      Crystal Guardian - atlas0 #74502_68: -1963657282
+      Crystal Guardian - atlas0 #74502_69: -82743545
+      Crystal Guardian - atlas0 #74502_7: 1887776173
+      Crystal Guardian - atlas0 #74502_70: 1359071934
+      Crystal Guardian - atlas0 #74502_71: 1273861556
+      Crystal Guardian - atlas0 #74502_8: -1974324919
+      Crystal Guardian - atlas0 #74502_9: 528846840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

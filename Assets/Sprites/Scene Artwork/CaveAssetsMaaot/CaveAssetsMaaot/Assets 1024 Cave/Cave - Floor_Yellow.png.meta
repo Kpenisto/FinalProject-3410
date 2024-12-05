@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 56cdea01d7f2a364792c2c204005d4df
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1902
+        width: 364
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f157395e12d7418cecc4c9bf53207
+      internalID: -942539273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1902
+        width: 376
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7361fd5af9e7e1498f9a53d74458ba7
+      internalID: 14737201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1910
+        width: 146
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd02a56b714be0e4f90a21990d83f94e
+      internalID: -1508213840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1608
+        width: 214
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1603974ea47f243a36e33043bfdd8e
+      internalID: 221367156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1641
+        width: 214
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3256740f2507ea442a0eddf7f103866d
+      internalID: 1719582216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1762
+        width: 363
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff4bc0b89612543be17f88535a1dd8
+      internalID: -663081666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1760
+        width: 376
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a155bcb2cee0cf4dac74a287f9facdf
+      internalID: 367972778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1733
+        width: 425
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe2017ddc9d474981c4424df334d12
+      internalID: -720762146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1607
+        width: 991
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a35332f996dc14abc8e455f626aba8
+      internalID: -1819099340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1457
+        width: 792
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c8b73ae3edec4babd14881bbbbc76
+      internalID: -1864830387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1299
+        width: 354
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f96b479870c24e9685da010a38938
+      internalID: 1588767272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1296
+        width: 354
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf761c767b56ce468a72071055cc16a
+      internalID: -2111748243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1295
+        width: 290
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0228f3db1e8d84fb4d17b5e48208f9
+      internalID: -452798499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1298
+        width: 301
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4154221c3a8f11d4187c9653f5c3deb0
+      internalID: 1474062957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1299
+        width: 231
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e169b1b28613c24e982e3e1320ab977
+      internalID: -1331567578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1298
+        width: 224
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2907f4a86287f49b091077d7d80681
+      internalID: 1458327587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1086
+        width: 1471
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594cf1fc57c3c9143bdb47f98a93853a
+      internalID: -1940404141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 814
+        width: 141
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96f26e20a06154795d05d60c0be8b6
+      internalID: -1537405242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 810
+        width: 124
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519147b3f1f86774d82b4cf369688586
+      internalID: -632046743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 722
+        width: 1424
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1504d257a92734586981bf78508b84
+      internalID: -126006577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 614
+        width: 374
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f82113f4007d64ab3889c49a949bd0
+      internalID: 1450387247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 417
+        width: 706
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7fa91847d44874cade9424a723931e
+      internalID: 1862505355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 478
+        width: 678
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b37791a315b294b8ef1626fce7b11a
+      internalID: -1447774356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 444
+        width: 377
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a661f88cf60d949b5a4e85b1954c7f
+      internalID: 160395103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 792
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66b054359031648962ceba11c8ecf5
+      internalID: -788723672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Floor_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 86
+        width: 792
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593feaf81bd33f43978354095575cbd
+      internalID: -1563545622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cave - Floor_Yellow_0: -942539273
+      Cave - Floor_Yellow_1: 14737201
+      Cave - Floor_Yellow_10: 1588767272
+      Cave - Floor_Yellow_11: -2111748243
+      Cave - Floor_Yellow_12: -452798499
+      Cave - Floor_Yellow_13: 1474062957
+      Cave - Floor_Yellow_14: -1331567578
+      Cave - Floor_Yellow_15: 1458327587
+      Cave - Floor_Yellow_16: -1940404141
+      Cave - Floor_Yellow_17: -1537405242
+      Cave - Floor_Yellow_18: -632046743
+      Cave - Floor_Yellow_19: -126006577
+      Cave - Floor_Yellow_2: -1508213840
+      Cave - Floor_Yellow_20: 1450387247
+      Cave - Floor_Yellow_21: 1862505355
+      Cave - Floor_Yellow_22: -1447774356
+      Cave - Floor_Yellow_23: 160395103
+      Cave - Floor_Yellow_24: -788723672
+      Cave - Floor_Yellow_25: -1563545622
+      Cave - Floor_Yellow_3: 221367156
+      Cave - Floor_Yellow_4: 1719582216
+      Cave - Floor_Yellow_5: -663081666
+      Cave - Floor_Yellow_6: 367972778
+      Cave - Floor_Yellow_7: -720762146
+      Cave - Floor_Yellow_8: -1819099340
+      Cave - Floor_Yellow_9: -1864830387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
